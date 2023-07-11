@@ -47,7 +47,7 @@ plot(Tiempo,RMatematica,main='Reservas',xlab='Tiempo',ylab='Reserva',
      ylim = c(0,200000))#b
 lines(x=Tiempo,y=RMinima,col="skyblue1",bg="skyblue1",pch=21, type='h',lwd=8)
 legend('topleft',col=c('darkorange1','skyblue1'), legend=c('Reserva Matemática', 'Reserva Mínima'),
-       lty=1,bty = "n")#
+       lty=1,bty = "n",lwd=5)#
 text(20,RMatematica[20]+10000,labels=expression(V[30]^{min}==V[30]),col='red')
 points(20,datos$`Reserva Matemática`[20],col='red',bg='red',pch=21,cex=1.5) #
 
