@@ -5,7 +5,7 @@
 En este proyecto se plantean las características básicas sobre un contrato de seguro para llevar a la práctica el cálculo de la reserva mínima (Método de Zillmer) y la reserva de gastos de administración de acuerdo a las circulares 10.1.7 y 10.1.7.1 de la Comisión Nacional de Seguros y Fianzas (CNSF). En el documento escrito se realiza una breve explicación sobre cada concepto involucrado al mismo tiempo que se muestran los resultados que fueron obtenidos con el uso de macros en el entorno de Visual Basic for Applications.
 
 
-<p align="center"> <img src= "https://raw.githubusercontent.com/CarlosCamposs/Reservas-Modificadas/master/images/Reservas.jpg" height="250" alt="ReservaMinima">
+<p align="center"> <img src= "https://raw.githubusercontent.com/CarlosCamposs/Reservas-Modificadas/master/images/Reservas.jpeg" height="250" alt="ReservaMinima">
  </p>
 
 ## Documentación
